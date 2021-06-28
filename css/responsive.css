@@ -1,0 +1,414 @@
+@media all and (max-width:1024px) {
+	.hero-start {
+		padding: 70px 0;
+		height: auto;
+	}
+	.business-content-main h3 {
+		margin-bottom: 20px;
+	}
+	.glith-error-main {
+		margin-top: 40px;
+		margin-bottom: 25px;
+	}
+	.minute-main .col-md-9 {
+		max-width: 90%;
+		flex: 90%;
+	}
+	.customer-love-main .col-md-6 {
+		max-width: 60%;
+		flex: 60%;
+	}
+	.slider {
+		margin: 70px auto;
+	}
+	.whatwedo-main,
+	.whyupdate-main {
+		background-size: cover;
+	}
+	.protection-rightimg img {
+		min-height: 313px;
+		object-fit: cover;
+	}
+	.pricing-main .col-md-10,
+	.services-plan-main .col-md-9 {
+		flex: 100%;
+		max-width: 100%;
+	}
+	.services-plan-main .house-it-main {
+		width: auto;
+	}
+	.price-contact-us {
+		margin-bottom: 70px;
+	}
+}
+
+@media all and (max-width:991px) {
+	.hero-content br{
+		display: inline-block;
+	}
+	.header-main .add-shadow .navbar-toggler {
+		color: rgba(0, 0, 0, .5);
+		border-color: rgba(0, 0, 0, .1);
+	}
+	.pricing-main .col-md-10,
+	.services-plan-main .col-md-9 {
+		flex: 80%;
+		max-width: 80%;
+	}
+	br {
+		display: none;
+	}
+	.header-main .add-shadow .navbar-toggler-icon {
+		background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+	}
+	h1 {
+		font-size: 44px;
+		line-height: 40px;
+	}
+	h2 {
+		line-height: 44px;
+		font-size: 34px;
+	}
+	h3 {
+		font-size: 28px;
+		line-height: 34px;
+		font-weight: bold;
+	}
+	h6 {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.w-btn {
+		font-size: 14px;
+		padding: 10px 0;
+	}
+	.small-heading span {
+		font-size: 24px;
+		line-height: 24px;
+	}
+	.hero-start {
+		padding-top: 80px;
+		height: auto;
+		padding-bottom: 40px;
+	}
+	.hero-btns {
+		margin-top: 30px;
+		margin-bottom: 15px;
+	}
+	.business-main,
+	.quote-main::before,
+	.quote-main::after {
+		background-image: none;
+	}
+	.quote-main {
+		right: 0;
+		position: unset;
+		padding: 25px 15px;
+	}
+	.business-content-main h3 {
+		margin-bottom: 15px;
+		margin-top: 30px;
+	}
+	.business-main,
+	.minute-main {
+		padding: 50px 0;
+	}
+	.glith-error-main {
+		margin-right: 0;
+		margin-bottom: 20px;
+		margin-top: 30px;
+	}
+	.minute-main h2 {
+		margin-bottom: 25px;
+	}
+	.business-main .col-md-6 {
+		margin-left: 15px!important;
+	}
+	.minute-main .col-md-9 {
+		flex: 100%;
+		max-width: 100%;
+	}
+	.miinute-contact p {
+		margin-bottom: 0;
+	}
+	.customer-love-main {
+		margin-top: 50px;
+	}
+	.slider {
+		margin: 30px auto;
+	}
+	.slider-card {
+		min-height: 220px;
+	}
+	.whatwedo-main {
+		padding-bottom: 50px;
+		background-image: none;
+	}
+	.glith-error-main::before {
+		display: none;
+	}
+	.glith-text {
+		margin-left: 0;
+	}
+	.whatwedo-main h3 {
+		margin-bottom: 30px;
+	}
+	.wedo-card {
+		padding: 30px 15px;
+	}
+	.whatwedo-main .points-main {
+		margin-left: 0;
+	}
+	.business-stats-main h3,
+	.include-services h5 {
+		margin-bottom: 30px;
+	}
+	.include-services {
+		margin-top: 50px;
+	}
+	.business-stats-main {
+		padding-top: 50px;
+	}
+	.protection-main {
+		background-image: none;
+		padding: 25px;
+	}
+	.protection-rightimg img {
+		min-height: 265px;
+		object-fit: cover;
+	}
+	.pricing-main {
+		background: #F5FBFD;
+		margin-top: 50px;
+		padding-top: 50px;
+	}
+	.price-card,
+	.services-plan-main .house-it-main {
+		width: 100%;
+		margin-bottom: 40px;
+		padding: 25px;
+		display: inline-block;
+	}
+	.pricing-cards {
+		margin-top: 30px;
+		flex-wrap: wrap;
+	}
+	.services-plan-main .house-it-main {
+		border-radius: 4px;
+	}
+	.manageservices {
+		padding: 30px;
+	}
+	.price-contact-us {
+		margin-bottom: 50px;
+	}
+	.whyupdate-main .col-md-8,
+	.contactus-main .col-md-5 {
+		flex: 100%;
+		max-width: 100%;
+	}
+	.contactus-main,
+	.services-plan-main {
+		padding: 50px 0;
+	}
+	.whyupdate-main {
+		background-image: none;
+		padding: 40px 0;
+	}
+	.whyupdate-main ul {
+		margin-left: 0 !important;
+		margin-top: 15px !important;
+	}
+	.price-card.active-card {
+		margin-top: 0px;
+	}
+	.protection-main-start {
+		margin-top: 50px;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+		margin-right: 0;
+	}
+	.header-main .navbar-nav {
+		margin-bottom: 20px;
+		margin-top: 10px;
+	}
+}
+
+@media all and (max-width: 767px) {
+	.pricing-main .col-md-10,
+	.services-plan-main .col-md-9 {
+		flex: 100%;
+		max-width: 100%;
+	}
+	.price-card,
+	.services-plan-main .house-it-main {
+		margin-bottom: 30px;
+	}
+	.contactus-main,
+	.services-plan-main {
+		padding: 40px 0;
+	}
+	.protection-rightimg img {
+		min-height: auto;
+	}
+	.slider-card {
+		min-height: 270px;
+	}
+	.business-main .col-md-6 {
+		margin-left: auto !important;
+	}
+	.glith-error-main::before {
+		display: none;
+	}
+	.glith-text {
+		margin-left: 0px;
+	}
+	.business-content-main .small-heading {
+		margin-bottom: 25px;
+	}
+	.minute-main {
+		padding: 40px 0 25px 0;
+	}
+	.minute-main h6 {
+		margin-bottom: 15px;
+	}
+	.miinute-contact {
+		margin-top: 20px;
+	}
+	.w-card {
+		margin-bottom: 30px;
+		justify-content: unset;
+	}
+	.minute-main h2 {
+		text-align: left;
+	}
+	.miinute-contact p {
+		margin-bottom: 0;
+	}
+	.customer-love-main {
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	.slider {
+		margin: 25px auto;
+	}
+	.slick-dots {
+		bottom: 0;
+	}
+	.whatwedo-main h3 {
+		margin-bottom: 25px;
+	}
+	.wedo-card {
+		padding: 30px;
+	}
+	.whatwedo-main .col-md-4 {
+		margin-bottom: 25px;
+	}
+	.whatwedo-main .col-md-4:last-child {
+		margin-bottom: 0;
+	}
+	.wedo-card h6 {
+		margin-top: 20px;
+		margin-bottom: 10px;
+		font-weight: normal;
+	}
+	.include-services {
+		margin-top: 15px;
+	}
+	.whatwedo-main {
+		background-image: none;
+		padding: 40px 0;
+	}
+	.business-stats-main {
+		padding-top: 40px;
+	}
+	.business-stats-main h3 {
+		margin-bottom: 30px;
+	}
+	.business-stats-main .points-main {
+		margin-top: 25px;
+	}
+	.statistic-stripe {
+		padding: 15px;
+	}
+	.protection-main-start {
+		margin-top: 40px;
+	}
+	.protection-main {
+		background-image: none;
+		border-radius: 4px 4px 0 0;
+		padding: 30px;
+	}
+	.protection-main-start .col-md-6 {
+		padding-right: 15px !important;
+		padding-left: 15px !important;
+	}
+	.protection-rightimg img {
+		border-radius: 0 0 4px 4px;
+	}
+	.protection-main h6:first-child {
+		margin-bottom: 25px;
+	}
+	.protection-main .white-fill-btn {
+		margin-top: 30px;
+	}
+	.setup-list-main ul {
+		margin-top: 20px !important;
+	}
+	.setup-list-main .mt-5 {
+		margin-top: 25px !important;
+	}
+	.security-table-main {
+		margin-top: 40px;
+	}
+	.pricing-main {
+		margin-top: 30px;
+		padding-top: 40px;
+	}
+	.manageservices {
+		margin-bottom: 0;
+		padding: 25px;
+	}
+	.price-card:last-child {
+		margin-bottom: 0;
+	}
+	.price-card .price-box {
+		padding: 10px;
+	}
+	.price-contact-us {
+		margin-top: 20px !important;
+		margin-bottom: 40px !important;
+	}
+	.services-plan-main img {
+		margin-bottom: 10px;
+	}
+	.services-plan-main p {
+		margin-bottom: 25px;
+	}
+	.points-main li {
+		padding-left: 35px;
+	}
+	.whyupdate-main p {
+		margin-top: 25px;
+		margin-bottom: 0;
+	}
+	.contactus-main {
+		padding: 40px 0;
+	}
+	.contactus-main .w-btn {
+		margin-top: 10px;
+	}
+	.social-icons {
+		margin-top: 30px;
+	}
+	.footer-main {
+		text-align: center;
+	}
+	.footer-main .col-md-6 div:first-child {
+		justify-content: center !important;
+		margin-top: 10px;
+	}
+	.business-main {
+		padding: 40px 0;
+	}
+}
