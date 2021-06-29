@@ -24,7 +24,7 @@ gradient.addColorStop(0, 'rgba(4, 155,215, 0.07)');
 var data  = {
     labels: [ 'Dec 01', 'Dec 13', 'Dec 25', 'Jan 05', 'Jan 17' ],
     datasets: [{
-      label: 'Test',
+      label: '',
       backgroundColor: gradient,
       pointBackgroundColor: '#0296D0',
       borderWidth: 2,
